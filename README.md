@@ -1,16 +1,30 @@
-## Hi there 👋
+# Ahsan Ali
 
-<!--
-**ahsanali-01/ahsanali-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent Researcher specializing in **Scientific Machine Learning (SciML)**. I focus on bridging the gap between physics and deep learning to solve industrial engineering problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+
+**1. Physics-Informed Neural Networks (PINNs)**
+* **Thermal & Fluids:** Modeling heat distribution and cooling in industrial motors.
+* **Predictive Maintenance:** Vibration analysis for bearing life estimation.
+* **Optimization:** Working with Multi-Fidelity PINNs and Uncertainty Quantification.
+* **Digital Twins:** Real-time synchronization for industrial assets.
+
+**2. Autonomous Edge-AI & Control**
+* **Energy:** Microgrid control and TinyML for EV battery optimization.
+* **Robotics:** Collision-avoidance systems and drone swarm management.
+* **On-Chip AI:** Implementing Reinforcement Learning on microcontrollers.
+* **IoT Security:** Hardware-level security for industrial control systems.
+
+---
+
+### 🛠 Tech & Skills
+* **Frameworks:** PyTorch, JAX, DeepXDE, TensorFlow.
+* **Hardware:** NVIDIA Jetson, TinyML, ARM Microcontrollers.
+* **Specialties:** Control Theory, Thermal Dynamics, SciML, Industrial IoT.
+
+---
+
+*Always open to discussing new ideas in SciML and Physics-Informed AI.*
