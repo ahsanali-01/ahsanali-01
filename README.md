@@ -1,6 +1,6 @@
 # Ahsan Ali
 
-Independent Researcher specializing in **Scientific Machine Learning (SciML)**. I focus on bridging the gap between physics and deep learning to solve industrial engineering problems.
+Independent Researcher specializing in **Scientific Machine Learning (SciML)** I focus on bridging the gap between physics and deep learning to solve industrial engineering problems.
 
 ---
 
